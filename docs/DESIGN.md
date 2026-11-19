@@ -9,9 +9,9 @@
 
 ## Direção visual
 
-Abertura compacta com o identificador Iruipx em destaque, nome pessoal e atuação. Dois ícones oficiais — Kaneki e Ichigo — formam uma galeria compacta, centralizada, que cabe também em telas estreitas. As duas imagens permanecem idênticas aos originais, com créditos incorporados e fontes registradas. Não há banners desenhados, imagens geradas por IA ou animações.
+O nome, o identificador e o trabalho com suporte técnico abrem o perfil. A ilustração em preto e branco é a prévia de compartilhamento do perfil de Kaneki na campanha oficial do volume 15 de Tokyo Ghoul:re. Ela leva à própria campanha da Shueisha e é exibida em formato compacto com texto alternativo e crédito visível. A referência a Bleach fica no rodapé.
 
-O corpo mantém o foco no trabalho com suporte técnico e nos estudos de cibersegurança e backend. Repositórios sem implementação ficam numa seção recolhível de andamento. Não são apresentados como projetos concluídos. A composição usa recursos nativos do GitHub e acompanha o tema escolhido por quem visita.
+As áreas de estudo ficam em duas linhas e usam uma única fileira de ícones. A seção de repositórios informa o estado do Senkyn e dá acesso à lista pública de repositórios. O conteúdo usa Markdown e HTML aceitos no GitHub.
 
 ## Bio sugerida
 
@@ -21,6 +21,9 @@ Suporte técnico | Estudando cibersegurança e desenvolvimento backend com JavaS
 
 - [GitHub: usar o perfil como apresentação profissional](https://docs.github.com/en/account-and-profile/tutorials/using-your-github-profile-to-enhance-your-resume).
 - [GitHub: sintaxe, imagens e acessibilidade](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- [innng: exemplo de perfil com interesses pessoais e conteúdo técnico](https://github.com/innng/innng).
+- [Awesome GitHub Profile: exemplos de composição editorial e monoespaçada](https://github.com/beydemirfurkan/awesome-github-profile).
+- [Weekly Young Jump: campanha do volume 15 de Tokyo Ghoul:re](https://youngjump.jp/tokyoghoul/kanekisousaku/chara15.html).
 - [Publicação oficial de Tite Kubo e equipe](https://x.com/tite_official/status/1415508921125539843).
 - [Créditos completos](../assets/CREDITS.md).
 

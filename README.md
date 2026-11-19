@@ -1,41 +1,32 @@
-<h1 align="center">Iruipx</h1>
+<h1>Bruno Martinelli</h1>
 
-<p align="center"><strong>Bruno Martinelli</strong><br><code>Suporte técnico</code> · <code>Cibersegurança em estudo</code></p>
+<p><code>@Iruipx</code> · <strong>Suporte técnico</strong></p>
+
+Estudo **cibersegurança** e **desenvolvimento backend** para entender como sistemas e redes funcionam, por que falham e como protegê-los.
 
 <p align="center">
-<a href="https://x.com/tite_official/status/1415508921125539843"><img src="assets/ichigo-official-2021.png" width="100" height="100" alt="Ichigo Kurosaki — ilustração de Tite Kubo distribuída oficialmente como ícone. © Tite Kubo / Shueisha."></a>
-&nbsp;&nbsp;
-<a href="https://www.marv.jp/special/tokyoghoul/first/special.html"><img src="assets/kaneki-official-icon.jpg" width="100" height="100" alt="Kaneki com máscara — ícone disponibilizado pelo site oficial de Tokyo Ghoul √A. Crédito original preservado."></a>
+  <a href="https://youngjump.jp/tokyoghoul/kanekisousaku/chara15.html"><img src="https://youngjump.jp/tokyoghoul/kanekisousaku/img/og/og_15.png" width="160" height="160" alt="Ken Kaneki de cabelo branco, sorrindo de olhos fechados, em arte de Sui Ishida." /></a><br />
+  <sub><a href="https://youngjump.jp/tokyoghoul/kanekisousaku/chara15.html">東京喰種:re · Campanha do vol. 15</a> · © Sui Ishida / Shueisha</sub>
 </p>
 
-Trabalho com **suporte técnico** e estudo **cibersegurança**. Também estou aprendendo **JavaScript, TypeScript e Node.js**, com foco em desenvolvimento backend.
+## O que estou estudando
 
-
-## Estudos
-
-Meu objetivo é entender melhor sistemas, redes e segurança de aplicações, e usar a programação para resolver problemas do dia a dia.
+- **Cibersegurança** — fundamentos de redes e segurança da informação.
+- **Backend** — JavaScript, TypeScript e Node.js, com foco no lado do servidor.
 
 <p>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" alt="JavaScript — em estudo" width="36" height="36"></a>
+  <img src="assets/icons/javascript.svg" alt="JavaScript" width="26" height="26" />
   &nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="assets/icons/typescript.svg" alt="TypeScript — em estudo" width="36" height="36"></a>
+  <img src="assets/icons/typescript.svg" alt="TypeScript" width="26" height="26" />
   &nbsp;
-  <a href="https://nodejs.org/"><img src="assets/icons/nodedotjs.svg" alt="Node.js — em estudo" width="36" height="36"></a>
+  <img src="assets/icons/nodedotjs.svg" alt="Node.js" width="26" height="26" />
 </p>
-
-**JavaScript · TypeScript · Node.js** — tecnologias que estou estudando para backend.
 
 ## Repositórios
 
-[Explorar meus repositórios públicos →](https://github.com/Iruipx?tab=repositories)
-
-<details>
-<summary>O que já está publicado</summary>
-
-[Senkyn](https://github.com/Iruipx/Senkyn) está em preparação. Por enquanto, contém apenas uma apresentação; ainda não há código de implementação público.
-
-</details>
+- [Senkyn](https://github.com/Iruipx/Senkyn) — repositório em preparação, com a apresentação inicial publicada.
+- [Ver todos os repositórios públicos](https://github.com/Iruipx?tab=repositories)
 
 ---
 
-<sub>東京喰種 · BLEACH · [Fontes e créditos das imagens](assets/CREDITS.md)</sub>
+<sub><a href="https://x.com/tite_official/status/1415508921125539843">BLEACH</a> · <a href="assets/CREDITS.md">Fontes e créditos</a></sub>

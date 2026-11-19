@@ -1,5 +1,11 @@
 # Créditos
 
+## Ken Kaneki — Tokyo Ghoul:re
+
+A imagem no README é a prévia oficial de compartilhamento da [campanha do volume 15 de Tokyo Ghoul:re](https://youngjump.jp/tokyoghoul/kanekisousaku/chara15.html), publicada pela Weekly Young Jump / Shueisha. A página de Kaneki fornece essa [imagem](https://youngjump.jp/tokyoghoul/kanekisousaku/img/og/og_15.png) como `og:image` e oferece botões para compartilhar a campanha.
+
+A prévia está vinculada à própria campanha, com hospedagem na origem e sem edição. © 石田スイ／集英社 (Sui Ishida / Shueisha), conforme crédito incorporado.
+
 ## Ilustração de Bleach
 
 `ichigo-official-2021.png` é uma ilustração original de Ichigo Kurosaki, de Tite Kubo, distribuída pelo perfil oficial **久保帯人＆スタッフ (@tite_official)** em 15/07/2021 como presente de ícone para o aniversário do personagem.
@@ -8,7 +14,7 @@
 - [Arquivo original no CDN do X](https://pbs.twimg.com/media/E6TFRYYUcAAL9-e.png).
 - © TITE KUBO / SHUEISHA, conforme crédito incorporado à própria imagem.
 
-O arquivo foi preservado integralmente: sem recorte, filtros, remoção de crédito, alterações de cor ou geração por IA. O README apenas define o tamanho de exibição. Uso como ilustração de perfil pessoal, com link para a publicação oficial. A distribuição como ícone não é uma licença aberta para outros usos.
+O arquivo foi preservado integralmente no repositório. A referência a Bleach no README aponta para a publicação oficial.
 
 O texto da publicação foi confirmado pela resposta pública oficial do serviço de incorporação do X (`publish.twitter.com/oembed`), além do registro da publicação. Não são utilizadas imagens exclusivas de membros do Klub Outside.
 
@@ -20,7 +26,7 @@ O texto da publicação foi confirmado pela resposta pública oficial do serviç
 - A página oficial apresenta o material como presente de ícones para Twitter e orienta salvar as imagens fornecidas para usá-las.
 - © 石田スイ／集英社・東京喰種製作委員会; o crédito incorporado ao arquivo original foi preservado.
 
-A imagem foi mantida integralmente. O uso aqui é o de ícone em um perfil pessoal, com ligação à distribuição oficial. Essa distribuição não equivale a uma licença aberta para outros usos. Trata-se de uma imagem do anime, distinta da ilustração original de Tite Kubo usada ao lado dela.
+A imagem do anime foi mantida no repositório como registro da abertura anterior do perfil.
 
 ## Ícones de tecnologias
 
