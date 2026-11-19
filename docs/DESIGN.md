@@ -9,7 +9,7 @@
 
 ## Direção visual
 
-Abertura compacta com o identificador Iruipx em destaque, nome pessoal e atuação. Dois ícones oficiais — Kaneki e Ichigo — ficam à direita em telas largas e deixam a apresentação fluir abaixo em telas estreitas. As duas imagens permanecem idênticas aos originais, com créditos incorporados e fontes registradas. Não há banners desenhados, imagens geradas por IA ou animações.
+Abertura compacta com o identificador Iruipx em destaque, nome pessoal e atuação. Dois ícones oficiais — Kaneki e Ichigo — formam uma galeria compacta, centralizada, que cabe também em telas estreitas. As duas imagens permanecem idênticas aos originais, com créditos incorporados e fontes registradas. Não há banners desenhados, imagens geradas por IA ou animações.
 
 O corpo mantém o foco no trabalho com suporte técnico e nos estudos de cibersegurança e backend. Repositórios sem implementação ficam numa seção recolhível de andamento. Não são apresentados como projetos concluídos. A composição usa recursos nativos do GitHub e acompanha o tema escolhido por quem visita.
 
