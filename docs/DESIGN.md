@@ -9,9 +9,9 @@
 
 ## Direção visual
 
-Uma ilustração original de Tite Kubo distribuída oficialmente como ícone, com crédito preservado, e conteúdo em Markdown nativo. Não usar banners desenhados, imagens geradas por IA, frases de efeito, gráficos de domínio ou serviços externos de métricas. A apresentação é curta, com hierarquia simples, espaço entre os blocos e ícones discretos.
+Abertura compacta com o identificador Iruipx em destaque, nome pessoal e atuação. Dois ícones oficiais — Kaneki e Ichigo — ficam à direita em telas largas e deixam a apresentação fluir abaixo em telas estreitas. As duas imagens permanecem idênticas aos originais, com créditos incorporados e fontes registradas. Não há banners desenhados, imagens geradas por IA ou animações.
 
-O arquivo da ilustração é local e idêntico ao original. O texto e a imagem se adaptam à largura disponível, sem tabelas para montar colunas de apresentação. A tabela de estudos contém apenas duas colunas curtas.
+O corpo mantém o foco no trabalho com suporte técnico e nos estudos de cibersegurança e backend. Repositórios sem implementação ficam numa seção recolhível de andamento. Não são apresentados como projetos concluídos. A composição usa recursos nativos do GitHub e acompanha o tema escolhido por quem visita.
 
 ## Bio sugerida
 

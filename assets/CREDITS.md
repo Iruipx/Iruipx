@@ -12,6 +12,16 @@ O arquivo foi preservado integralmente: sem recorte, filtros, remoção de créd
 
 O texto da publicação foi confirmado pela resposta pública oficial do serviço de incorporação do X (`publish.twitter.com/oembed`), além do registro da publicação. Não são utilizadas imagens exclusivas de membros do Klub Outside.
 
+## Ícone de Tokyo Ghoul
+
+`kaneki-official-icon.jpg` é o ícone de Kaneki com máscara disponibilizado no pacote de ícones para perfil de Tokyo Ghoul √A, no [site oficial da Marvelous](https://www.marv.jp/special/tokyoghoul/first/special.html).
+
+- [Arquivo original disponibilizado para download](https://www.marv.jp/special/tokyoghoul/first/images/special/sp04/008.jpg).
+- A página oficial apresenta o material como presente de ícones para Twitter e orienta salvar as imagens fornecidas para usá-las.
+- © 石田スイ／集英社・東京喰種製作委員会; o crédito incorporado ao arquivo original foi preservado.
+
+A imagem foi mantida integralmente. O uso aqui é o de ícone em um perfil pessoal, com ligação à distribuição oficial. Essa distribuição não equivale a uma licença aberta para outros usos. Trata-se de uma imagem do anime, distinta da ilustração original de Tite Kubo usada ao lado dela.
+
 ## Ícones de tecnologias
 
 | Arquivo | Origem | Licença ou condições |
