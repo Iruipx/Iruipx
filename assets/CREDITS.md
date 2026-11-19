@@ -1,25 +1,23 @@
-# Créditos visuais
+# Créditos
 
-## Composição do perfil
+## Ilustração de Bleach
 
-Os cabeçalhos, separador, rodapé, padrões de pontos e emblema circular são composições vetoriais originais feitas para o perfil de Bruno Martinelli (@Iruipx). As formas são abstratas; não foram utilizadas imagens geradas por IA, scans, personagens, logotipos de anime ou fanarts de terceiros.
+`ichigo-official-2021.png` é uma ilustração original de Ichigo Kurosaki, de Tite Kubo, distribuída pelo perfil oficial **久保帯人＆スタッフ (@tite_official)** em 15/07/2021 como presente de ícone para o aniversário do personagem.
 
-Tokyo Ghoul, de Sui Ishida, e Bleach, de Tite Kubo, são referências de atmosfera e composição. Não há vínculo oficial com os autores, editoras ou marcas.
+- [Publicação oficial e contexto da distribuição](https://x.com/tite_official/status/1415508921125539843).
+- [Arquivo original no CDN do X](https://pbs.twimg.com/media/E6TFRYYUcAAL9-e.png).
+- © TITE KUBO / SHUEISHA, conforme crédito incorporado à própria imagem.
 
-## Ícones
+O arquivo foi preservado integralmente: sem recorte, filtros, remoção de crédito, alterações de cor ou geração por IA. O README apenas define o tamanho de exibição. Uso como ilustração de perfil pessoal, com link para a publicação oficial. A distribuição como ícone não é uma licença aberta para outros usos.
 
-Ícones de JavaScript e TypeScript obtidos do [Simple Icons](https://github.com/simple-icons/simple-icons/tree/32e030086fdc605196391aab28519b14dc4295b4), revisão `32e030086fdc605196391aab28519b14dc4295b4`, consultada em 19/11/2026. Seus traçados foram preservados, em versão monocromática branca. O ícone de Node.js é a versão branca oficial, sem alteração de cor ou proporção. Uma placa grafite atrás dos ícones mantém o contraste nos temas claro e escuro.
+O texto da publicação foi confirmado pela resposta pública oficial do serviço de incorporação do X (`publish.twitter.com/oembed`), além do registro da publicação. Não são utilizadas imagens exclusivas de membros do Klub Outside.
 
-| Arquivo | Marca / origem indicada pelo catálogo | Licença e diretrizes |
+## Ícones de tecnologias
+
+| Arquivo | Origem | Licença ou condições |
 | --- | --- | --- |
-| `icons/javascript.svg` | [JS logo, pela comunidade](https://github.com/voodootikigod/logo.js) | MIT para o logo original; texto preservado em `licenses/javascript-MIT.txt`. |
-| `icons/typescript.svg` | [TypeScript / Microsoft](https://www.typescriptlang.org/branding/) | Uso identificativo conforme a página de branding. |
-| `icons/nodedotjs.svg` | [Arquivo oficial Node.js](https://github.com/nodejs/nodejs.org/blob/main/apps/site/public/static/logos/jsIconWhite.svg), blob `cc26750b457b827b79dfd85ebfd1a8f1d69b00c1` | [Política de marcas OpenJS](https://trademark-policy.openjsf.org/): logo oficial usado como link ao site do projeto. |
+| `icons/javascript.svg` | [Simple Icons](https://github.com/simple-icons/simple-icons/tree/32e030086fdc605196391aab28519b14dc4295b4), a partir do [logo da comunidade JS](https://github.com/voodootikigod/logo.js) | [MIT do logo](licenses/javascript-MIT.txt); [CC0 do catálogo](licenses/simple-icons-CC0.md). |
+| `icons/typescript.svg` | Mesmo catálogo Simple Icons; [branding TypeScript / Microsoft](https://www.typescriptlang.org/branding/) | Variante monocromática para identificar a tecnologia, respeitando o formato da marca. |
+| `icons/nodedotjs.svg` | [Arquivo oficial Node.js](https://github.com/nodejs/nodejs.org/blob/main/apps/site/public/static/logos/jsIconWhite.svg), blob `cc26750b457b827b79dfd85ebfd1a8f1d69b00c1` | [Política de marcas OpenJS](https://trademark-policy.openjsf.org/); versão oficial branca, usada como link ao site do projeto. |
 
-O projeto Simple Icons é distribuído sob [CC0](licenses/simple-icons-CC0.md). Essa licença não transfere direitos sobre marcas; as diretrizes individuais continuam aplicáveis. Os ícones apenas identificam os estudos do autor e não indicam certificação, parceria ou endosso. Node.js® é marca registrada da OpenJS Foundation.
-
-## Tipografia
-
-Noto Sans Display, Noto Sans Mono e Noto Sans CJK JP, por Google e colaboradores, sob SIL Open Font License 1.1. Os SVGs usam contornos, sem carregar fontes externas. A documentação de licença acompanha os arquivos em `licenses/`.
-
-`学習` (gakushū) significa aprendizado/estudo. Seu uso é decorativo e acompanha uma alternativa em português.
+Os traçados dos ícones são preservados. Uma placa grafite atrás de cada um mantém o contraste nos temas claro e escuro. Eles identificam tecnologias em estudo, sem indicar certificação, domínio profissional, parceria ou endosso. Node.js® é marca registrada da OpenJS Foundation.

@@ -1,54 +1,39 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
-  <img src="assets/header.svg" alt="Iruipx — Bruno Martinelli. Desenvolvimento backend em formação. Composição em preto, branco e vermelho, com textura de mangá e um emblema circular abstrato." width="1200">
-</picture>
+<h1 align="center">Bruno Martinelli</h1>
+<p align="center"><code>Iruipx</code> · Suporte técnico · Cibersegurança em estudo</p>
 
-# Bruno Martinelli
-
-Desenvolvedor júnior em formação, com foco em **backend**. Estou estudando JavaScript, TypeScript e Node.js para entender melhor o que acontece por trás de uma aplicação.
-
-[Sobre](#01--sobre) · [Estudos](#02--em-estudo) · [Repositórios](#03--repositórios-públicos)
-
-## 01 / Sobre
-
-Gosto de entender como as coisas funcionam e transformar o que aprendo em prática. Meu objetivo é construir uma base sólida em backend e desenvolver projetos que eu consiga explicar, manter e melhorar.
-
-```sh
-$ cat foco.txt
-backend
-
-$ cat estudando.txt
-JavaScript · TypeScript · Node.js
-```
-
-## 02 / Em estudo
-
-<p>
-  <img src="assets/icons/javascript.svg" alt="JavaScript" width="40" height="40">
-  &nbsp;&nbsp;
-  <img src="assets/icons/typescript.svg" alt="TypeScript" width="40" height="40">
-  &nbsp;&nbsp;
-  <a href="https://nodejs.org/"><img src="assets/icons/nodedotjs.svg" alt="Node.js — site oficial" width="40" height="40"></a>
+<p align="center">
+  <a href="https://x.com/tite_official/status/1415508921125539843">
+    <img src="assets/ichigo-official-2021.png" alt="Ichigo Kurosaki, em ilustração original de Tite Kubo distribuída pelo perfil oficial como ícone. Crédito © Tite Kubo / Shueisha preservado na imagem." width="200" height="200">
+  </a>
 </p>
 
-**JavaScript · TypeScript · Node.js**
+## Sobre
 
-Essas são as tecnologias que estou aprendendo. As tecnologias usadas em cada projeto serão descritas no respectivo README, conforme as implementações forem publicadas.
+Trabalho com **suporte técnico** e estudo **cibersegurança**. Também estou construindo minha base em desenvolvimento **backend**, com JavaScript, TypeScript e Node.js.
 
-<img src="assets/divider.svg" alt="" width="1200">
+Quero aprofundar meus conhecimentos em sistemas, redes e segurança de aplicações, e usar a programação para resolver problemas do dia a dia.
 
-## 03 / Repositórios públicos
+## Em estudo
 
-### [Senkyn ↗](https://github.com/Iruipx/Senkyn)
+<p>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" alt="JavaScript" width="36" height="36"></a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="assets/icons/typescript.svg" alt="TypeScript" width="36" height="36"></a>
+  &nbsp;
+  <a href="https://nodejs.org/"><img src="assets/icons/nodedotjs.svg" alt="Node.js — site oficial" width="36" height="36"></a>
+</p>
 
-**Em preparação.** O repositório tem uma apresentação inicial e ainda não possui código de implementação publicado.
+| Área | Foco atual |
+| --- | --- |
+| Cibersegurança | Construir uma base em segurança da informação. |
+| Backend | Aprender JavaScript, TypeScript e Node.js. |
 
-[Ver todos os repositórios públicos →](https://github.com/Iruipx?tab=repositories)
+## Repositórios
 
-## 04 / Fora do código
+[Senkyn](https://github.com/Iruipx/Senkyn) — em preparação; ainda sem implementação pública.
 
-**Tokyo Ghoul, Bleach e mangás** fazem parte do meu repertório. Gosto do contraste, da composição das páginas e de como uma imagem pode contar uma história. Essa influência também aparece por aqui.
+[Todos os repositórios →](https://github.com/Iruipx?tab=repositories)
 
-<img src="assets/footer.svg" alt="学習 significa aprendizado. Iruipx, sempre em formação." width="1200">
+---
 
-<sub>[Créditos visuais](assets/CREDITS.md)</sub>
+<sub>Fora da tecnologia: Tokyo Ghoul, Bleach e mangás. · [Créditos da ilustração e dos ícones](assets/CREDITS.md)</sub>
